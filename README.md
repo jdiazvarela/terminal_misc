@@ -4,6 +4,7 @@ experimentos
 ### ecualizador falso
 
 req: bash, lolcat
+
 req: stty, sed, seq, awk, shuf
 
 ```bash
